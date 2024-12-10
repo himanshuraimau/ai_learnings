@@ -1,4 +1,6 @@
 pandas
 ipykernel
 requests
-mysql.connector
+matplotlib
+numpy
+scikit-learn
